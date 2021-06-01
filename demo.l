@@ -27,7 +27,7 @@
 "--"	{ return MINUS; }
 "**"	{ return MULT; }
 "//"	{ return DIV; }
-"<-"	{ return ASSIGN; } /* eta ki cholbe? */
+"<-"	{ return ASSIGN; }
 "GT"	{ return GT; }
 "LT"	{ return LT; }
 
